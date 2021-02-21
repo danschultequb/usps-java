@@ -1,0 +1,19 @@
+{
+  "project": "usps-java",
+  "publisher": "qub",
+  "version": "6",
+  "java": {
+    "dependencies": [
+      {
+        "publisher": "qub",
+        "project": "http-java",
+        "version": "18"
+      },
+      {
+        "publisher": "qub",
+        "project": "xml-java",
+        "version": "27"
+      }
+    ]
+  }
+}
